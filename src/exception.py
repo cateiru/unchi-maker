@@ -5,6 +5,8 @@
 Copyright (c) 2020 Yuto Watanabe
 """
 
+# pylint: disable=W0107
+
 
 class TextNotStringError(Exception):
   """
