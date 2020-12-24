@@ -13,9 +13,9 @@ setup(
         "janome"
     ],
     packages=find_packages("src"),
-    # entry_points={
-    #     'console_scripts': [
-    #         'unchi = src.main:sample',
-    #     ],
-    # },
+    entry_points={
+        'console_scripts': [
+            'unchi = src.main:main',
+        ],
+    },
 )
