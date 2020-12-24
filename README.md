@@ -1,12 +1,15 @@
-# Title
+# UNCHI Maker
 
 language: [🇯🇵](documents/READMEjp.md) | 🇺🇸
 
-[Explanation]
+Set the noun of the sentence on the clipboard to "うんち".
 
 ## Usage
 
-[]
+```bash
+pip install git+https://github.com/yuto51942/unchi-maker
+unchi
+```
 
 ## Test
 

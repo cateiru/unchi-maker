@@ -1,12 +1,15 @@
-# タイトル
+# うんちメーカー
 
 language: 🇯🇵 | [🇺🇸](../README.md)
 
-[説明]
+クリップボード上の文章の名詞を「うんち」にする。
 
 ## 使い方
 
-[]
+```bash
+pip install git+https://github.com/yuto51942/unchi-maker
+unchi
+```
 
 ## テスト
 

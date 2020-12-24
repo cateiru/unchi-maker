@@ -12,7 +12,7 @@ tox = "*"
 pytest = "*"
 
 [packages]
-template = {path = ".",editable = true}
+unchi = {path = ".",editable = true}
 
 [requires]
 python_version = "3.8"

@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "a86c57e788ae7cf2597d20599f7c71d8c6ed422bc274c1d60e4d8afbed21d2ac"
+            "sha256": "f8c8abb74de5ebcf4096b1af14e7f4ab3858b70ed41156be6c3b4073894f8c4e"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,7 +16,20 @@
         ]
     },
     "default": {
-        "template": {
+        "janome": {
+            "hashes": [
+                "sha256:6c2c38d894014d57cb3151265c11146506ead3b3bc290898adc33711711612de",
+                "sha256:a650e2684e80af72f869eff17566f31dd4444f5443c4771dca1ada60cea5c251"
+            ],
+            "version": "==0.4.1"
+        },
+        "pyperclip": {
+            "hashes": [
+                "sha256:9abef1e79ce635eb62309ecae02dfb5a3eb952fa7d6dce09c1aef063f81424d3"
+            ],
+            "version": "==1.8.1"
+        },
+        "unchi": {
             "editable": true,
             "path": "."
         }
