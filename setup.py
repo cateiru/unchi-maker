@@ -3,7 +3,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="unchi",
-    version="1.0.1",
+    version="1.0.2",
     description="Set the noun of the sentence on the clipboard to うんち.",
     license="MIT License",
     author="Yuto Watanabe",
