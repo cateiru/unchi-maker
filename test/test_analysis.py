@@ -7,7 +7,7 @@ Copyright (c) 2020 Yuto Watanabe
 from typing import List
 
 import pytest
-from src import analysis
+from unchi import analysis
 
 WORD_SEPARATION = analysis.Analysis()
 

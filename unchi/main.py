@@ -8,8 +8,8 @@ import time
 
 import pyperclip
 
-from src.analysis import Analysis
-from src.exception import TextNotStringError
+from .analysis import Analysis
+from .exception import TextNotStringError
 
 
 def get_clipboard() -> str:

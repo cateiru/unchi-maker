@@ -12,10 +12,10 @@ setup(
         "pyperclip",
         "janome"
     ],
-    packages=find_packages("src"),
+    packages=find_packages(),
     entry_points={
         'console_scripts': [
-            'unchi = src.main:main',
+            'cp-unchi = unchi.main:main',
         ],
     },
 )

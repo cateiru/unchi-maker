@@ -8,7 +8,7 @@ from typing import List
 
 from janome.tokenizer import Tokenizer, Token
 
-from src.exception import TextNotStringError
+from .exception import TextNotStringError
 
 
 class Analysis():
