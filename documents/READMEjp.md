@@ -8,7 +8,7 @@ language: 🇯🇵 | [🇺🇸](../README.md)
 
 ```bash
 pip install git+https://github.com/yuto51942/unchi-maker
-unchi
+cp-unchi
 ```
 
 ## テスト

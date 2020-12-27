@@ -8,7 +8,7 @@ Set the noun of the sentence on the clipboard to "うんち".
 
 ```bash
 pip install git+https://github.com/yuto51942/unchi-maker
-unchi
+cp-unchi
 ```
 
 ## Test
